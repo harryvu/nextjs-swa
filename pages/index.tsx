@@ -31,7 +31,7 @@ const Home = ({ products }: { products: any }) => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to NextJS Static Web App
+          Welcome to NextJS On Azure Static Web App
         </h1>
         <ul>
         {products.map((product:any) => {

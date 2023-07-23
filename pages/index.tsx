@@ -31,9 +31,9 @@ const Home = ({ products }: { products: any }) => {
       <ul className="p-4 max-w-6xl grid gap-4 sm:grid-cols-2 md:grid-cols-4">
         <li className="text-4xl text-red-700 font-noticia font-extrabold sm:col-span-2 sm:grid sm:grid-cols-2 gap-4 md:grid-cols-3 md:col-span-3">
           <h1 className='md:col-span-2'>
-            <span>LFS Global Trading Pty Ltd</span>
+            <span className='mt-10'>LFS Global Trading Pty Ltd</span>
           </h1></li>
-        <li className='italic text-gray-600 sm:row-start-2 sm:col-start-2 sm:self-center md:col-start-1 md:col-span-2 border-2 rounded-xl border-blue-200 border-dotted p-4'>
+        <li className='italic text-blue-600 sm:row-start-2 sm:col-start-2 sm:self-center md:col-start-1 md:col-span-2 border-2 rounded-xl border-red-500 border-dotted p-4'>
           <p>
           L & FS Global Trading is a trusted importer of traditional Vietnamese products and ingredients.
           We work rigorously to provide the Australian market with the best ingredients and tastes directly from Vietnam.

@@ -12,6 +12,10 @@ module.exports = {
     './src/**/*.{js,ts,jsx,tsx,mdx}',
   ],
   theme: {
+    // colors: {
+    //   'white': '#ffffff',
+    //   'red': '#d93240'
+    // },
     container: {
       padding: {
         DEFAULT: '1rem',

@@ -37,3 +37,15 @@ a {
     background: black;
   }
 }
+
+.carousel .control-dots .dot {
+  transition: opacity 0.25s ease-in;
+  opacity: 0.4;
+  filter: alpha(opacity=30);
+  background: #fff;
+  width: 30px;
+  height: 4px;
+  cursor: pointer;
+  display: inline-block;
+  margin: 0 6px;
+}

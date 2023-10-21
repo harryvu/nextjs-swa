@@ -43,7 +43,7 @@ const Categories = () => {
                 <Link href="/products/012-dfc">Dry Food Can</Link>
             </li>
             <li className='text-right hover:text-white hover:bg-red-500' data-id="101-oth">
-                <Link href="/products/oth">Others</Link>
+                <Link href="/products/101-oth">Others</Link>
             </li>
         </ul>
     )

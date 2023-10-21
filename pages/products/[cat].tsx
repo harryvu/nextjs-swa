@@ -48,7 +48,7 @@ const Page = ({ products }: { products: any }) => {
                 <span className='italic text-yellow-600'>{catName}</span>
               </h1>
             </li>
-            <li className='italic text-blue-600 sm:row-start-2 sm:col-start-1 sm:self-center md:col-start-1 md:col-span-2 border-2 rounded-xl border-red-500 border-dotted p-4'>
+            <li className='italic text-blue-600 hidden md:block sm:row-start-2 sm:col-start-1 sm:self-center md:col-start-1 md:col-span-2 border-2 rounded-xl border-red-500 border-dotted p-4'>
               <p className='text-xl'>
               {catDesc}
               </p>

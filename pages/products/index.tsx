@@ -56,10 +56,10 @@ const ProducsPage = ({ products }: { products: any }) => {
             <span className='italic text-yellow-600'>All Products</span>
           </h1>
         </li>
-        <li className='hidden md:block uppercase'>
+        <li className='md:block uppercase'>
           <Categories />
         </li>
-        <li className='italic text-blue-600 sm:row-start-2 sm:col-start-2 sm:self-center md:col-start-2 md:col-span-2 border-2 rounded-xl border-red-500 border-dotted p-4'>
+        <li className='italic text-blue-600 hidden md:block sm:row-start-2 sm:col-start-2 sm:self-center md:col-start-2 md:col-span-2 border-2 rounded-xl border-red-500 border-dotted p-4'>
           <p className='text-xl'>
           L & FS Global Trading is your premier gateway to authentic Vietnamese products and ingredients. Despite being a budding presence in the Australian landscape, our commitment runs deep: we meticulously source the finest ingredients straight from Vietnam, ensuring unparalleled quality. From gourmet restaurants to your own kitchen creations, L & FS Global Trading guarantees a touch of Vietnamese authenticity that will elevate and satisfy your culinary needs.
           </p>

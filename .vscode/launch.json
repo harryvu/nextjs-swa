@@ -23,6 +23,21 @@
           "uriFormat": "%s",
           "action": "debugWithChrome"
         }
-      }
+      },
+      {
+        "type": "node",
+        "request": "launch",
+        "name": "Debug Jest Tests",
+        "runtimeExecutable": "npm",
+        "runtimeArgs": [
+          "run-script",
+          "test",
+          "--",
+          "--runInBand"
+        ],
+        "console": "integratedTerminal",
+        "protocol": "inspector",
+        "internalConsoleOptions": "neverOpen"
+      }   
     ]
   }

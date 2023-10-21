@@ -1,0 +1,2097 @@
+{
+    "data": [
+        {
+            "id": 25,
+            "attributes": {
+                "code": "DDF02",
+                "name": "Round rice paper size 22cm (GST)",
+                "description": null,
+                "barcode": "8934656010606",
+                "display_hint": null,
+                "createdAt": "2023-08-30T11:56:09.237Z",
+                "updatedAt": "2023-08-30T11:56:12.791Z",
+                "publishedAt": "2023-08-30T11:56:12.716Z",
+                "dimensions": "400grs/box x 45 boxes/CTN",
+                "image": {
+                    "data": {
+                        "id": 177,
+                        "attributes": {
+                            "name": "DDF02_Round rice paper size 22 cm_400grs.png",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 677,
+                            "height": 669,
+                            "formats": {
+                                "small": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692760140/small_DDF_02_Round_rice_paper_size_22_cm_400grs_72ec215530.png",
+                                    "hash": "small_DDF_02_Round_rice_paper_size_22_cm_400grs_72ec215530",
+                                    "mime": "image/png",
+                                    "name": "small_DDF02_Round rice paper size 22 cm_400grs.png",
+                                    "path": null,
+                                    "size": 453,
+                                    "width": 500,
+                                    "height": 494,
+                                    "provider_metadata": {
+                                        "public_id": "small_DDF_02_Round_rice_paper_size_22_cm_400grs_72ec215530",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692760137/thumbnail_DDF_02_Round_rice_paper_size_22_cm_400grs_72ec215530.png",
+                                    "hash": "thumbnail_DDF_02_Round_rice_paper_size_22_cm_400grs_72ec215530",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_DDF02_Round rice paper size 22 cm_400grs.png",
+                                    "path": null,
+                                    "size": 53.48,
+                                    "width": 158,
+                                    "height": 156,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_DDF_02_Round_rice_paper_size_22_cm_400grs_72ec215530",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "DDF_02_Round_rice_paper_size_22_cm_400grs_72ec215530",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 203.14,
+                            "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692760138/DDF_02_Round_rice_paper_size_22_cm_400grs_72ec215530.png",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "DDF_02_Round_rice_paper_size_22_cm_400grs_72ec215530",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-08-22T20:09:01.095Z",
+                            "updatedAt": "2023-08-22T20:09:01.095Z"
+                        }
+                    }
+                },
+                "category": {
+                    "data": {
+                        "id": 7,
+                        "attributes": {
+                            "name": "006-DDF",
+                            "value": "Dry Foods",
+                            "createdAt": "2023-07-15T12:29:46.688Z",
+                            "updatedAt": "2023-10-20T03:12:52.597Z",
+                            "publishedAt": "2023-07-15T12:29:49.384Z",
+                            "description": "Elevate your culinary creations with a selection of essential dry foods. Delight in the versatility of rice paper and rice vermicelli. Explore unique flavors through preserved vegetables, pickled leek, and dried black fungus, adding depth to your dishes."
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 26,
+            "attributes": {
+                "code": "DDF03",
+                "name": "Fresh Rice Vermicelli 10mm BDC",
+                "description": null,
+                "barcode": "8936015310310",
+                "display_hint": null,
+                "createdAt": "2023-08-30T12:00:22.492Z",
+                "updatedAt": "2023-08-30T12:00:28.036Z",
+                "publishedAt": "2023-08-30T12:00:27.964Z",
+                "dimensions": "300gr/bag x 20bags/CTN",
+                "image": {
+                    "data": {
+                        "id": 174,
+                        "attributes": {
+                            "name": "DDF03_Fresh Rice Vermicelli 10mm BDC_300grs.png",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 669,
+                            "height": 669,
+                            "formats": {
+                                "small": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692760139/small_DDF_03_Fresh_Rice_Vermicelli_10mm_BDC_300grs_c11ff55d26.png",
+                                    "hash": "small_DDF_03_Fresh_Rice_Vermicelli_10mm_BDC_300grs_c11ff55d26",
+                                    "mime": "image/png",
+                                    "name": "small_DDF03_Fresh Rice Vermicelli 10mm BDC_300grs.png",
+                                    "path": null,
+                                    "size": 289.63,
+                                    "width": 500,
+                                    "height": 500,
+                                    "provider_metadata": {
+                                        "public_id": "small_DDF_03_Fresh_Rice_Vermicelli_10mm_BDC_300grs_c11ff55d26",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692760135/thumbnail_DDF_03_Fresh_Rice_Vermicelli_10mm_BDC_300grs_c11ff55d26.png",
+                                    "hash": "thumbnail_DDF_03_Fresh_Rice_Vermicelli_10mm_BDC_300grs_c11ff55d26",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_DDF03_Fresh Rice Vermicelli 10mm BDC_300grs.png",
+                                    "path": null,
+                                    "size": 32.7,
+                                    "width": 156,
+                                    "height": 156,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_DDF_03_Fresh_Rice_Vermicelli_10mm_BDC_300grs_c11ff55d26",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "DDF_03_Fresh_Rice_Vermicelli_10mm_BDC_300grs_c11ff55d26",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 113.97,
+                            "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692760136/DDF_03_Fresh_Rice_Vermicelli_10mm_BDC_300grs_c11ff55d26.png",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "DDF_03_Fresh_Rice_Vermicelli_10mm_BDC_300grs_c11ff55d26",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-08-22T20:08:59.961Z",
+                            "updatedAt": "2023-08-22T20:08:59.961Z"
+                        }
+                    }
+                },
+                "category": {
+                    "data": {
+                        "id": 7,
+                        "attributes": {
+                            "name": "006-DDF",
+                            "value": "Dry Foods",
+                            "createdAt": "2023-07-15T12:29:46.688Z",
+                            "updatedAt": "2023-10-20T03:12:52.597Z",
+                            "publishedAt": "2023-07-15T12:29:49.384Z",
+                            "description": "Elevate your culinary creations with a selection of essential dry foods. Delight in the versatility of rice paper and rice vermicelli. Explore unique flavors through preserved vegetables, pickled leek, and dried black fungus, adding depth to your dishes."
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 10,
+            "attributes": {
+                "code": "FVE09",
+                "name": "Frozen Lemon Grass 20cm (Stick)",
+                "description": null,
+                "barcode": "8936040360021",
+                "display_hint": null,
+                "createdAt": "2023-07-23T23:48:34.984Z",
+                "updatedAt": "2023-08-10T05:23:27.402Z",
+                "publishedAt": "2023-08-10T05:23:27.342Z",
+                "dimensions": "500grs/bag x 20bags/CTN",
+                "image": {
+                    "data": {
+                        "id": 38,
+                        "attributes": {
+                            "name": "FVE09_Frozen Lemon Grass (Stick)_500grs.png",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 428,
+                            "height": 669,
+                            "formats": {
+                                "small": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1689753012/small_FVE_09_Frozen_Lemon_Grass_Stick_500grs_8d253bc915.png",
+                                    "hash": "small_FVE_09_Frozen_Lemon_Grass_Stick_500grs_8d253bc915",
+                                    "mime": "image/png",
+                                    "name": "small_FVE09_Frozen Lemon Grass (Stick)_500grs.png",
+                                    "path": null,
+                                    "size": 359.31,
+                                    "width": 320,
+                                    "height": 500,
+                                    "provider_metadata": {
+                                        "public_id": "small_FVE_09_Frozen_Lemon_Grass_Stick_500grs_8d253bc915",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1689753008/thumbnail_FVE_09_Frozen_Lemon_Grass_Stick_500grs_8d253bc915.png",
+                                    "hash": "thumbnail_FVE_09_Frozen_Lemon_Grass_Stick_500grs_8d253bc915",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_FVE09_Frozen Lemon Grass (Stick)_500grs.png",
+                                    "path": null,
+                                    "size": 37.9,
+                                    "width": 100,
+                                    "height": 156,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_FVE_09_Frozen_Lemon_Grass_Stick_500grs_8d253bc915",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "FVE_09_Frozen_Lemon_Grass_Stick_500grs_8d253bc915",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 163.11,
+                            "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1689753009/FVE_09_Frozen_Lemon_Grass_Stick_500grs_8d253bc915.png",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "FVE_09_Frozen_Lemon_Grass_Stick_500grs_8d253bc915",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-07-19T00:50:13.256Z",
+                            "updatedAt": "2023-07-19T00:50:13.256Z"
+                        }
+                    }
+                },
+                "category": {
+                    "data": {
+                        "id": 2,
+                        "attributes": {
+                            "name": "001-FVE",
+                            "value": "Frozen Vegetables",
+                            "createdAt": "2023-07-15T12:27:30.327Z",
+                            "updatedAt": "2023-10-20T03:14:29.483Z",
+                            "publishedAt": "2023-07-15T12:27:33.485Z",
+                            "description": "Embrace convenience without sacrificing taste with an array of frozen vegetables. Discover the rich textures of cassava, yam, and taro. Add aromatic depth with frozen lemon grass and ginger. Elevate your dishes with the natural goodness of frozen coconut, each element ready to enhance your culinary ventures."
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 12,
+            "attributes": {
+                "code": "FSF01",
+                "name": "Frozen Whole Pipi Clam (cooked) size 30/50",
+                "description": null,
+                "barcode": "8936021430040",
+                "display_hint": null,
+                "createdAt": "2023-08-22T15:25:25.316Z",
+                "updatedAt": "2023-08-22T16:11:27.828Z",
+                "publishedAt": "2023-08-22T16:11:27.762Z",
+                "dimensions": "1kg/bag x 10bags/CTN",
+                "image": {
+                    "data": {
+                        "id": 122,
+                        "attributes": {
+                            "name": "FSF01_Frozen Whole Pipi Clam (cooked) size 30-50_1kg.png",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 502,
+                            "height": 669,
+                            "formats": {
+                                "small": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1689755557/small_FSF_01_Frozen_Whole_Pipi_Clam_cooked_size_30_50_1kg_f53b844a8e.png",
+                                    "hash": "small_FSF_01_Frozen_Whole_Pipi_Clam_cooked_size_30_50_1kg_f53b844a8e",
+                                    "mime": "image/png",
+                                    "name": "small_FSF01_Frozen Whole Pipi Clam (cooked) size 30-50_1kg.png",
+                                    "path": null,
+                                    "size": 430.49,
+                                    "width": 375,
+                                    "height": 500,
+                                    "provider_metadata": {
+                                        "public_id": "small_FSF_01_Frozen_Whole_Pipi_Clam_cooked_size_30_50_1kg_f53b844a8e",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1689755514/thumbnail_FSF_01_Frozen_Whole_Pipi_Clam_cooked_size_30_50_1kg_f53b844a8e.png",
+                                    "hash": "thumbnail_FSF_01_Frozen_Whole_Pipi_Clam_cooked_size_30_50_1kg_f53b844a8e",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_FSF01_Frozen Whole Pipi Clam (cooked) size 30-50_1kg.png",
+                                    "path": null,
+                                    "size": 45.07,
+                                    "width": 117,
+                                    "height": 156,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_FSF_01_Frozen_Whole_Pipi_Clam_cooked_size_30_50_1kg_f53b844a8e",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "FSF_01_Frozen_Whole_Pipi_Clam_cooked_size_30_50_1kg_f53b844a8e",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 215.98,
+                            "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1689755406/FSF_01_Frozen_Whole_Pipi_Clam_cooked_size_30_50_1kg_f53b844a8e.png",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "FSF_01_Frozen_Whole_Pipi_Clam_cooked_size_30_50_1kg_f53b844a8e",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-07-19T08:32:38.591Z",
+                            "updatedAt": "2023-08-22T15:23:43.933Z"
+                        }
+                    }
+                },
+                "category": {
+                    "data": {
+                        "id": 3,
+                        "attributes": {
+                            "name": "002-FSF",
+                            "value": "Frozen Seafoods",
+                            "createdAt": "2023-07-15T12:27:56.169Z",
+                            "updatedAt": "2023-10-20T03:14:56.692Z",
+                            "publishedAt": "2023-07-15T12:27:59.020Z",
+                            "description": "Elevate your meals with convenient and nutrient-rich frozen seafood. Enjoy preserved freshness and diverse options like fish fillets, shrimp, and calamari. Relish the goodness, reduce waste, and explore culinary horizons affordably. Embrace safety, sustainability, and year-round availability. Make every dish a practical, delicious, and responsible delight."
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 1,
+            "attributes": {
+                "code": "FVE01",
+                "name": "Frozen Cassava (cut)",
+                "description": null,
+                "barcode": "8936040360113",
+                "display_hint": "{ \"width\": \"40vw\", \"height\": \"90vh\" }",
+                "createdAt": "2023-07-15T14:15:48.955Z",
+                "updatedAt": "2023-07-22T21:38:42.697Z",
+                "publishedAt": "2023-07-19T10:31:40.904Z",
+                "dimensions": "1kg/bag x 10bags/CTN",
+                "image": {
+                    "data": {
+                        "id": 31,
+                        "attributes": {
+                            "name": "FVE01_Frozen Cassava (cut)_1kg.png",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 512,
+                            "height": 669,
+                            "formats": {
+                                "small": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1689753002/small_FVE_01_Frozen_Cassava_cut_1kg_f19ae3b609.png",
+                                    "hash": "small_FVE_01_Frozen_Cassava_cut_1kg_f19ae3b609",
+                                    "mime": "image/png",
+                                    "name": "small_FVE01_Frozen Cassava (cut)_1kg.png",
+                                    "path": null,
+                                    "size": 349.29,
+                                    "width": 383,
+                                    "height": 500,
+                                    "provider_metadata": {
+                                        "public_id": "small_FVE_01_Frozen_Cassava_cut_1kg_f19ae3b609",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1689752998/thumbnail_FVE_01_Frozen_Cassava_cut_1kg_f19ae3b609.png",
+                                    "hash": "thumbnail_FVE_01_Frozen_Cassava_cut_1kg_f19ae3b609",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_FVE01_Frozen Cassava (cut)_1kg.png",
+                                    "path": null,
+                                    "size": 41.42,
+                                    "width": 119,
+                                    "height": 156,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_FVE_01_Frozen_Cassava_cut_1kg_f19ae3b609",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "FVE_01_Frozen_Cassava_cut_1kg_f19ae3b609",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 167.95,
+                            "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1689753000/FVE_01_Frozen_Cassava_cut_1kg_f19ae3b609.png",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "FVE_01_Frozen_Cassava_cut_1kg_f19ae3b609",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-07-19T00:50:03.263Z",
+                            "updatedAt": "2023-07-19T00:50:03.263Z"
+                        }
+                    }
+                },
+                "category": {
+                    "data": {
+                        "id": 2,
+                        "attributes": {
+                            "name": "001-FVE",
+                            "value": "Frozen Vegetables",
+                            "createdAt": "2023-07-15T12:27:30.327Z",
+                            "updatedAt": "2023-10-20T03:14:29.483Z",
+                            "publishedAt": "2023-07-15T12:27:33.485Z",
+                            "description": "Embrace convenience without sacrificing taste with an array of frozen vegetables. Discover the rich textures of cassava, yam, and taro. Add aromatic depth with frozen lemon grass and ginger. Elevate your dishes with the natural goodness of frozen coconut, each element ready to enhance your culinary ventures."
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 13,
+            "attributes": {
+                "code": "FSF02",
+                "name": "Frozen Whole Pipi Clam (cooked) size 40/60",
+                "description": null,
+                "barcode": "8936021430057",
+                "display_hint": null,
+                "createdAt": "2023-08-22T16:24:29.272Z",
+                "updatedAt": "2023-08-22T16:24:33.996Z",
+                "publishedAt": "2023-08-22T16:24:33.862Z",
+                "dimensions": "1kg/bag x 10bags/CTN",
+                "image": {
+                    "data": {
+                        "id": 127,
+                        "attributes": {
+                            "name": "FSF02_Frozen Whole Pipi Clam (cooked) size 40-60_1kg.png",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 502,
+                            "height": 669,
+                            "formats": {
+                                "small": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1689755568/small_FSF_02_Frozen_Whole_Pipi_Clam_cooked_size_40_60_1kg_9095320be4.png",
+                                    "hash": "small_FSF_02_Frozen_Whole_Pipi_Clam_cooked_size_40_60_1kg_9095320be4",
+                                    "mime": "image/png",
+                                    "name": "small_FSF02_Frozen Whole Pipi Clam (cooked) size 40-60_1kg.png",
+                                    "path": null,
+                                    "size": 430.49,
+                                    "width": 375,
+                                    "height": 500,
+                                    "provider_metadata": {
+                                        "public_id": "small_FSF_02_Frozen_Whole_Pipi_Clam_cooked_size_40_60_1kg_9095320be4",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1689755543/thumbnail_FSF_02_Frozen_Whole_Pipi_Clam_cooked_size_40_60_1kg_9095320be4.png",
+                                    "hash": "thumbnail_FSF_02_Frozen_Whole_Pipi_Clam_cooked_size_40_60_1kg_9095320be4",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_FSF02_Frozen Whole Pipi Clam (cooked) size 40-60_1kg.png",
+                                    "path": null,
+                                    "size": 45.07,
+                                    "width": 117,
+                                    "height": 156,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_FSF_02_Frozen_Whole_Pipi_Clam_cooked_size_40_60_1kg_9095320be4",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "FSF_02_Frozen_Whole_Pipi_Clam_cooked_size_40_60_1kg_9095320be4",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 215.98,
+                            "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1689755515/FSF_02_Frozen_Whole_Pipi_Clam_cooked_size_40_60_1kg_9095320be4.png",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "FSF_02_Frozen_Whole_Pipi_Clam_cooked_size_40_60_1kg_9095320be4",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-07-19T08:32:49.290Z",
+                            "updatedAt": "2023-07-19T08:32:49.290Z"
+                        }
+                    }
+                },
+                "category": {
+                    "data": {
+                        "id": 3,
+                        "attributes": {
+                            "name": "002-FSF",
+                            "value": "Frozen Seafoods",
+                            "createdAt": "2023-07-15T12:27:56.169Z",
+                            "updatedAt": "2023-10-20T03:14:56.692Z",
+                            "publishedAt": "2023-07-15T12:27:59.020Z",
+                            "description": "Elevate your meals with convenient and nutrient-rich frozen seafood. Enjoy preserved freshness and diverse options like fish fillets, shrimp, and calamari. Relish the goodness, reduce waste, and explore culinary horizons affordably. Embrace safety, sustainability, and year-round availability. Make every dish a practical, delicious, and responsible delight."
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 5,
+            "attributes": {
+                "code": "FVE05",
+                "name": "Frozen Taro (couple cut)",
+                "description": null,
+                "barcode": "8936040361479",
+                "display_hint": null,
+                "createdAt": "2023-07-18T22:45:20.259Z",
+                "updatedAt": "2023-07-22T21:39:53.619Z",
+                "publishedAt": "2023-07-18T22:45:35.296Z",
+                "dimensions": "500grs/bag x 20bags/CTN",
+                "image": {
+                    "data": {
+                        "id": 32,
+                        "attributes": {
+                            "name": "FVE05_Frozen Taro (couple cut)_1kg.png",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 465,
+                            "height": 630,
+                            "formats": {
+                                "small": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1689753003/small_FVE_05_Frozen_Taro_couple_cut_1kg_d068d557b1.png",
+                                    "hash": "small_FVE_05_Frozen_Taro_couple_cut_1kg_d068d557b1",
+                                    "mime": "image/png",
+                                    "name": "small_FVE05_Frozen Taro (couple cut)_1kg.png",
+                                    "path": null,
+                                    "size": 373.92,
+                                    "width": 369,
+                                    "height": 500,
+                                    "provider_metadata": {
+                                        "public_id": "small_FVE_05_Frozen_Taro_couple_cut_1kg_d068d557b1",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1689753000/thumbnail_FVE_05_Frozen_Taro_couple_cut_1kg_d068d557b1.png",
+                                    "hash": "thumbnail_FVE_05_Frozen_Taro_couple_cut_1kg_d068d557b1",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_FVE05_Frozen Taro (couple cut)_1kg.png",
+                                    "path": null,
+                                    "size": 41.48,
+                                    "width": 115,
+                                    "height": 156,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_FVE_05_Frozen_Taro_couple_cut_1kg_d068d557b1",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "FVE_05_Frozen_Taro_couple_cut_1kg_d068d557b1",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 165.71,
+                            "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1689753002/FVE_05_Frozen_Taro_couple_cut_1kg_d068d557b1.png",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "FVE_05_Frozen_Taro_couple_cut_1kg_d068d557b1",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-07-19T00:50:03.559Z",
+                            "updatedAt": "2023-07-19T00:55:19.560Z"
+                        }
+                    }
+                },
+                "category": {
+                    "data": {
+                        "id": 2,
+                        "attributes": {
+                            "name": "001-FVE",
+                            "value": "Frozen Vegetables",
+                            "createdAt": "2023-07-15T12:27:30.327Z",
+                            "updatedAt": "2023-10-20T03:14:29.483Z",
+                            "publishedAt": "2023-07-15T12:27:33.485Z",
+                            "description": "Embrace convenience without sacrificing taste with an array of frozen vegetables. Discover the rich textures of cassava, yam, and taro. Add aromatic depth with frozen lemon grass and ginger. Elevate your dishes with the natural goodness of frozen coconut, each element ready to enhance your culinary ventures."
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 14,
+            "attributes": {
+                "code": "FSF03",
+                "name": "Frozen Basa Fillet 1kg",
+                "description": null,
+                "barcode": "8936051790503",
+                "display_hint": null,
+                "createdAt": "2023-08-22T22:24:12.785Z",
+                "updatedAt": "2023-08-22T22:26:08.221Z",
+                "publishedAt": "2023-08-22T22:24:16.310Z",
+                "dimensions": "1kgx10/bag x 10bags/CTN (size 170-220)",
+                "image": {
+                    "data": {
+                        "id": 113,
+                        "attributes": {
+                            "name": "FSF03_Frozen Basa Fillet (size 170-220)_1kg.png",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 435,
+                            "height": 669,
+                            "formats": {
+                                "small": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1689755543/small_FSF_03_Frozen_Basa_Fillet_size_170_220_1kg_b857a52e35.png",
+                                    "hash": "small_FSF_03_Frozen_Basa_Fillet_size_170_220_1kg_b857a52e35",
+                                    "mime": "image/png",
+                                    "name": "small_FSF03_Frozen Basa Fillet (size 170-220)_1kg.png",
+                                    "path": null,
+                                    "size": 341.97,
+                                    "width": 325,
+                                    "height": 500,
+                                    "provider_metadata": {
+                                        "public_id": "small_FSF_03_Frozen_Basa_Fillet_size_170_220_1kg_b857a52e35",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1689755502/thumbnail_FSF_03_Frozen_Basa_Fillet_size_170_220_1kg_b857a52e35.png",
+                                    "hash": "thumbnail_FSF_03_Frozen_Basa_Fillet_size_170_220_1kg_b857a52e35",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_FSF03_Frozen Basa Fillet (size 170-220)_1kg.png",
+                                    "path": null,
+                                    "size": 37.76,
+                                    "width": 101,
+                                    "height": 156,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_FSF_03_Frozen_Basa_Fillet_size_170_220_1kg_b857a52e35",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "FSF_03_Frozen_Basa_Fillet_size_170_220_1kg_b857a52e35",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 161.22,
+                            "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1689755286/FSF_03_Frozen_Basa_Fillet_size_170_220_1kg_b857a52e35.png",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "FSF_03_Frozen_Basa_Fillet_size_170_220_1kg_b857a52e35",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-07-19T08:32:24.695Z",
+                            "updatedAt": "2023-07-19T08:32:24.695Z"
+                        }
+                    }
+                },
+                "category": {
+                    "data": {
+                        "id": 3,
+                        "attributes": {
+                            "name": "002-FSF",
+                            "value": "Frozen Seafoods",
+                            "createdAt": "2023-07-15T12:27:56.169Z",
+                            "updatedAt": "2023-10-20T03:14:56.692Z",
+                            "publishedAt": "2023-07-15T12:27:59.020Z",
+                            "description": "Elevate your meals with convenient and nutrient-rich frozen seafood. Enjoy preserved freshness and diverse options like fish fillets, shrimp, and calamari. Relish the goodness, reduce waste, and explore culinary horizons affordably. Embrace safety, sustainability, and year-round availability. Make every dish a practical, delicious, and responsible delight."
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 15,
+            "attributes": {
+                "code": "FSF04",
+                "name": "Frozen Basa Fillet 800g",
+                "description": null,
+                "barcode": "8936051790497",
+                "display_hint": null,
+                "createdAt": "2023-08-22T22:54:57.980Z",
+                "updatedAt": "2023-08-22T22:55:02.483Z",
+                "publishedAt": "2023-08-22T22:55:02.362Z",
+                "dimensions": "800grs/bag x 10bags/CTN (size 120-170)",
+                "image": {
+                    "data": {
+                        "id": 109,
+                        "attributes": {
+                            "name": "FSF04_Frozen Basa Fillet_800grs.png",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 448,
+                            "height": 669,
+                            "formats": {
+                                "small": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1689755144/small_FSF_04_Frozen_Basa_Fillet_800grs_25f6f0c234.png",
+                                    "hash": "small_FSF_04_Frozen_Basa_Fillet_800grs_25f6f0c234",
+                                    "mime": "image/png",
+                                    "name": "small_FSF04_Frozen Basa Fillet_800grs.png",
+                                    "path": null,
+                                    "size": 247.44,
+                                    "width": 335,
+                                    "height": 500,
+                                    "provider_metadata": {
+                                        "public_id": "small_FSF_04_Frozen_Basa_Fillet_800grs_25f6f0c234",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1689755124/thumbnail_FSF_04_Frozen_Basa_Fillet_800grs_25f6f0c234.png",
+                                    "hash": "thumbnail_FSF_04_Frozen_Basa_Fillet_800grs_25f6f0c234",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_FSF04_Frozen Basa Fillet_800grs.png",
+                                    "path": null,
+                                    "size": 31.17,
+                                    "width": 104,
+                                    "height": 156,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_FSF_04_Frozen_Basa_Fillet_800grs_25f6f0c234",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "FSF_04_Frozen_Basa_Fillet_800grs_25f6f0c234",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 121.39,
+                            "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1689755116/FSF_04_Frozen_Basa_Fillet_800grs_25f6f0c234.png",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "FSF_04_Frozen_Basa_Fillet_800grs_25f6f0c234",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-07-19T08:25:45.393Z",
+                            "updatedAt": "2023-07-19T08:25:45.393Z"
+                        }
+                    }
+                },
+                "category": {
+                    "data": {
+                        "id": 3,
+                        "attributes": {
+                            "name": "002-FSF",
+                            "value": "Frozen Seafoods",
+                            "createdAt": "2023-07-15T12:27:56.169Z",
+                            "updatedAt": "2023-10-20T03:14:56.692Z",
+                            "publishedAt": "2023-07-15T12:27:59.020Z",
+                            "description": "Elevate your meals with convenient and nutrient-rich frozen seafood. Enjoy preserved freshness and diverse options like fish fillets, shrimp, and calamari. Relish the goodness, reduce waste, and explore culinary horizons affordably. Embrace safety, sustainability, and year-round availability. Make every dish a practical, delicious, and responsible delight."
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 6,
+            "attributes": {
+                "code": "FVE06",
+                "name": "Frozen Lemon Grass (Grated)",
+                "description": null,
+                "barcode": "8938504016123",
+                "display_hint": "{ \"width\": \"40vw\", \"height\": \"90vh\" }",
+                "createdAt": "2023-07-22T21:40:52.326Z",
+                "updatedAt": "2023-07-23T00:57:48.056Z",
+                "publishedAt": "2023-07-23T00:57:47.987Z",
+                "dimensions": "1kg/bag x 10bags/CTN",
+                "image": {
+                    "data": {
+                        "id": 33,
+                        "attributes": {
+                            "name": "FVE06_Frozen Lemon Grass (Grated)_1kg.png",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 495,
+                            "height": 630,
+                            "formats": {
+                                "small": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1689753003/small_FVE_06_Frozen_Lemon_Grass_Grated_1kg_7d487f1a7e.png",
+                                    "hash": "small_FVE_06_Frozen_Lemon_Grass_Grated_1kg_7d487f1a7e",
+                                    "mime": "image/png",
+                                    "name": "small_FVE06_Frozen Lemon Grass (Grated)_1kg.png",
+                                    "path": null,
+                                    "size": 441.72,
+                                    "width": 393,
+                                    "height": 500,
+                                    "provider_metadata": {
+                                        "public_id": "small_FVE_06_Frozen_Lemon_Grass_Grated_1kg_7d487f1a7e",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1689753000/thumbnail_FVE_06_Frozen_Lemon_Grass_Grated_1kg_7d487f1a7e.png",
+                                    "hash": "thumbnail_FVE_06_Frozen_Lemon_Grass_Grated_1kg_7d487f1a7e",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_FVE06_Frozen Lemon Grass (Grated)_1kg.png",
+                                    "path": null,
+                                    "size": 48.24,
+                                    "width": 123,
+                                    "height": 156,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_FVE_06_Frozen_Lemon_Grass_Grated_1kg_7d487f1a7e",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "FVE_06_Frozen_Lemon_Grass_Grated_1kg_7d487f1a7e",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 191.83,
+                            "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1689753002/FVE_06_Frozen_Lemon_Grass_Grated_1kg_7d487f1a7e.png",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "FVE_06_Frozen_Lemon_Grass_Grated_1kg_7d487f1a7e",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-07-19T00:50:04.308Z",
+                            "updatedAt": "2023-07-22T21:41:29.693Z"
+                        }
+                    }
+                },
+                "category": {
+                    "data": {
+                        "id": 2,
+                        "attributes": {
+                            "name": "001-FVE",
+                            "value": "Frozen Vegetables",
+                            "createdAt": "2023-07-15T12:27:30.327Z",
+                            "updatedAt": "2023-10-20T03:14:29.483Z",
+                            "publishedAt": "2023-07-15T12:27:33.485Z",
+                            "description": "Embrace convenience without sacrificing taste with an array of frozen vegetables. Discover the rich textures of cassava, yam, and taro. Add aromatic depth with frozen lemon grass and ginger. Elevate your dishes with the natural goodness of frozen coconut, each element ready to enhance your culinary ventures."
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 27,
+            "attributes": {
+                "code": "DDR01",
+                "name": "Instant Coffee G7 3 in 1 (50bags)",
+                "description": null,
+                "barcode": "8935024129357",
+                "display_hint": null,
+                "createdAt": "2023-08-30T12:02:44.550Z",
+                "updatedAt": "2023-08-30T12:02:48.227Z",
+                "publishedAt": "2023-08-30T12:02:48.158Z",
+                "dimensions": "16grs/bag x 50bags/pack x 10packs/CTN",
+                "image": {
+                    "data": {
+                        "id": 214,
+                        "attributes": {
+                            "name": "DDR01_Instant Coffee G7 3 in 1 (50bags).png",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 669,
+                            "height": 669,
+                            "formats": {
+                                "small": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692760337/small_DDR_01_Instant_Coffee_G7_3_in_1_50bags_5a6a68d407.png",
+                                    "hash": "small_DDR_01_Instant_Coffee_G7_3_in_1_50bags_5a6a68d407",
+                                    "mime": "image/png",
+                                    "name": "small_DDR01_Instant Coffee G7 3 in 1 (50bags).png",
+                                    "path": null,
+                                    "size": 424.66,
+                                    "width": 500,
+                                    "height": 500,
+                                    "provider_metadata": {
+                                        "public_id": "small_DDR_01_Instant_Coffee_G7_3_in_1_50bags_5a6a68d407",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692760333/thumbnail_DDR_01_Instant_Coffee_G7_3_in_1_50bags_5a6a68d407.png",
+                                    "hash": "thumbnail_DDR_01_Instant_Coffee_G7_3_in_1_50bags_5a6a68d407",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_DDR01_Instant Coffee G7 3 in 1 (50bags).png",
+                                    "path": null,
+                                    "size": 51.09,
+                                    "width": 156,
+                                    "height": 156,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_DDR_01_Instant_Coffee_G7_3_in_1_50bags_5a6a68d407",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "DDR_01_Instant_Coffee_G7_3_in_1_50bags_5a6a68d407",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 169.18,
+                            "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692760335/DDR_01_Instant_Coffee_G7_3_in_1_50bags_5a6a68d407.png",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "DDR_01_Instant_Coffee_G7_3_in_1_50bags_5a6a68d407",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-08-22T20:12:17.986Z",
+                            "updatedAt": "2023-08-22T20:12:17.986Z"
+                        }
+                    }
+                },
+                "category": {
+                    "data": {
+                        "id": 8,
+                        "attributes": {
+                            "name": "007-DDR",
+                            "value": "Drinks",
+                            "createdAt": "2023-07-15T12:30:02.181Z",
+                            "updatedAt": "2023-10-20T03:12:38.524Z",
+                            "publishedAt": "2023-07-15T12:30:04.812Z",
+                            "description": "Quench your thirst with a variety of flavorful drinks. Instant coffee 3 in 1 offers a quick and indulgent coffee experience. Explore the tangy notes of tamarind, salted kumquat, and preserved apricot. Enjoy the soothing qualities of green tea and the sweetness of passion honey, creating a diverse range of beverage options."
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 2,
+            "attributes": {
+                "code": "FVE02",
+                "name": "Frozen Yam (sliced)",
+                "description": null,
+                "barcode": "8936040361479",
+                "display_hint": "{ \"width\": \"40vw\", \"height\": \"90vh\" }",
+                "createdAt": "2023-07-15T14:59:35.745Z",
+                "updatedAt": "2023-07-23T17:47:21.797Z",
+                "publishedAt": "2023-07-23T17:47:21.714Z",
+                "dimensions": "1kg/bag x 10bags/CTN",
+                "image": {
+                    "data": {
+                        "id": 30,
+                        "attributes": {
+                            "name": "FVE02_Frozen Cassava (grated)_1kg.png",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 466,
+                            "height": 630,
+                            "formats": {
+                                "small": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1689753002/small_FVE_02_Frozen_Cassava_grated_1kg_13321ea28d.png",
+                                    "hash": "small_FVE_02_Frozen_Cassava_grated_1kg_13321ea28d",
+                                    "mime": "image/png",
+                                    "name": "small_FVE02_Frozen Cassava (grated)_1kg.png",
+                                    "path": null,
+                                    "size": 328.5,
+                                    "width": 370,
+                                    "height": 500,
+                                    "provider_metadata": {
+                                        "public_id": "small_FVE_02_Frozen_Cassava_grated_1kg_13321ea28d",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1689752998/thumbnail_FVE_02_Frozen_Cassava_grated_1kg_13321ea28d.png",
+                                    "hash": "thumbnail_FVE_02_Frozen_Cassava_grated_1kg_13321ea28d",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_FVE02_Frozen Cassava (grated)_1kg.png",
+                                    "path": null,
+                                    "size": 37.88,
+                                    "width": 115,
+                                    "height": 156,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_FVE_02_Frozen_Cassava_grated_1kg_13321ea28d",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "FVE_02_Frozen_Cassava_grated_1kg_13321ea28d",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 149.37,
+                            "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1689752997/FVE_02_Frozen_Cassava_grated_1kg_13321ea28d.png",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "FVE_02_Frozen_Cassava_grated_1kg_13321ea28d",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-07-19T00:50:03.176Z",
+                            "updatedAt": "2023-07-19T00:50:03.176Z"
+                        }
+                    }
+                },
+                "category": {
+                    "data": {
+                        "id": 2,
+                        "attributes": {
+                            "name": "001-FVE",
+                            "value": "Frozen Vegetables",
+                            "createdAt": "2023-07-15T12:27:30.327Z",
+                            "updatedAt": "2023-10-20T03:14:29.483Z",
+                            "publishedAt": "2023-07-15T12:27:33.485Z",
+                            "description": "Embrace convenience without sacrificing taste with an array of frozen vegetables. Discover the rich textures of cassava, yam, and taro. Add aromatic depth with frozen lemon grass and ginger. Elevate your dishes with the natural goodness of frozen coconut, each element ready to enhance your culinary ventures."
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 8,
+            "attributes": {
+                "code": "FVE08",
+                "name": "Frozen Lemon Grass (Sliced)",
+                "description": null,
+                "barcode": "8938504016130",
+                "display_hint": "{ \"width\": \"40vw\", \"height\": \"90vh\" }",
+                "createdAt": "2023-07-23T17:49:47.467Z",
+                "updatedAt": "2023-07-23T17:50:16.961Z",
+                "publishedAt": "2023-07-23T17:50:16.895Z",
+                "dimensions": "500grs/bag x 20bags/CTN",
+                "image": {
+                    "data": {
+                        "id": 37,
+                        "attributes": {
+                            "name": "FVE08_Frozen Lemon Grass (Sliced)_500grs.png",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 463,
+                            "height": 630,
+                            "formats": {
+                                "small": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1689753012/small_FVE_08_Frozen_Lemon_Grass_Sliced_500grs_2df5ded588.png",
+                                    "hash": "small_FVE_08_Frozen_Lemon_Grass_Sliced_500grs_2df5ded588",
+                                    "mime": "image/png",
+                                    "name": "small_FVE08_Frozen Lemon Grass (Sliced)_500grs.png",
+                                    "path": null,
+                                    "size": 423.12,
+                                    "width": 367,
+                                    "height": 500,
+                                    "provider_metadata": {
+                                        "public_id": "small_FVE_08_Frozen_Lemon_Grass_Sliced_500grs_2df5ded588",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1689753007/thumbnail_FVE_08_Frozen_Lemon_Grass_Sliced_500grs_2df5ded588.png",
+                                    "hash": "thumbnail_FVE_08_Frozen_Lemon_Grass_Sliced_500grs_2df5ded588",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_FVE08_Frozen Lemon Grass (Sliced)_500grs.png",
+                                    "path": null,
+                                    "size": 45.99,
+                                    "width": 115,
+                                    "height": 156,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_FVE_08_Frozen_Lemon_Grass_Sliced_500grs_2df5ded588",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "FVE_08_Frozen_Lemon_Grass_Sliced_500grs_2df5ded588",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 177.64,
+                            "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1689753008/FVE_08_Frozen_Lemon_Grass_Sliced_500grs_2df5ded588.png",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "FVE_08_Frozen_Lemon_Grass_Sliced_500grs_2df5ded588",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-07-19T00:50:12.665Z",
+                            "updatedAt": "2023-07-19T00:50:12.665Z"
+                        }
+                    }
+                },
+                "category": {
+                    "data": {
+                        "id": 2,
+                        "attributes": {
+                            "name": "001-FVE",
+                            "value": "Frozen Vegetables",
+                            "createdAt": "2023-07-15T12:27:30.327Z",
+                            "updatedAt": "2023-10-20T03:14:29.483Z",
+                            "publishedAt": "2023-07-15T12:27:33.485Z",
+                            "description": "Embrace convenience without sacrificing taste with an array of frozen vegetables. Discover the rich textures of cassava, yam, and taro. Add aromatic depth with frozen lemon grass and ginger. Elevate your dishes with the natural goodness of frozen coconut, each element ready to enhance your culinary ventures."
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 17,
+            "attributes": {
+                "code": "FSP02",
+                "name": "Frozen Hargow",
+                "description": null,
+                "barcode": "8935149700288",
+                "display_hint": null,
+                "createdAt": "2023-08-23T03:30:55.670Z",
+                "updatedAt": "2023-08-23T03:33:13.757Z",
+                "publishedAt": "2023-08-23T03:33:13.686Z",
+                "dimensions": "1kg/bag x 10bags/CTN",
+                "image": {
+                    "data": {
+                        "id": 152,
+                        "attributes": {
+                            "name": "FSP02_Frozen Hargow_1kg.png",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 240,
+                            "height": 320,
+                            "formats": {
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692759987/thumbnail_FSP_02_Frozen_Hargow_1kg_fd339d84c5.png",
+                                    "hash": "thumbnail_FSP_02_Frozen_Hargow_1kg_fd339d84c5",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_FSP02_Frozen Hargow_1kg.png",
+                                    "path": null,
+                                    "size": 42.96,
+                                    "width": 117,
+                                    "height": 156,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_FSP_02_Frozen_Hargow_1kg_fd339d84c5",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "FSP_02_Frozen_Hargow_1kg_fd339d84c5",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 48.51,
+                            "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692759987/FSP_02_Frozen_Hargow_1kg_fd339d84c5.png",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "FSP_02_Frozen_Hargow_1kg_fd339d84c5",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-08-22T20:06:28.009Z",
+                            "updatedAt": "2023-08-22T20:06:28.009Z"
+                        }
+                    }
+                },
+                "category": {
+                    "data": {
+                        "id": 4,
+                        "attributes": {
+                            "name": "003-FSP",
+                            "value": "Frozen Special Foods",
+                            "createdAt": "2023-07-15T12:28:22.321Z",
+                            "updatedAt": "2023-10-20T03:15:40.082Z",
+                            "publishedAt": "2023-07-15T12:28:25.097Z",
+                            "description": "Experience convenience and delight with frozen specialties. Enjoy the authentic taste of hargow, mixed dim sum, vegetable spring rolls, and shrimp and crab spring rolls, all ready to be savored in the comfort of your home."
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 18,
+            "attributes": {
+                "code": "FSP03",
+                "name": "Frozen Vegetable Spring Roll",
+                "description": null,
+                "barcode": "8935149700370",
+                "display_hint": null,
+                "createdAt": "2023-08-23T03:31:56.333Z",
+                "updatedAt": "2023-08-23T03:33:21.027Z",
+                "publishedAt": "2023-08-23T03:33:20.951Z",
+                "dimensions": "450gr/bag x 20bags/CTN",
+                "image": {
+                    "data": {
+                        "id": 156,
+                        "attributes": {
+                            "name": "FSP03_Frozen Vegetable Spring Roll_450grs.png",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 320,
+                            "height": 264,
+                            "formats": {
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692759988/thumbnail_FSP_03_Frozen_Vegetable_Spring_Roll_450grs_09c2213e28.png",
+                                    "hash": "thumbnail_FSP_03_Frozen_Vegetable_Spring_Roll_450grs_09c2213e28",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_FSP03_Frozen Vegetable Spring Roll_450grs.png",
+                                    "path": null,
+                                    "size": 70.05,
+                                    "width": 189,
+                                    "height": 156,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_FSP_03_Frozen_Vegetable_Spring_Roll_450grs_09c2213e28",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "FSP_03_Frozen_Vegetable_Spring_Roll_450grs_09c2213e28",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 40.7,
+                            "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692759987/FSP_03_Frozen_Vegetable_Spring_Roll_450grs_09c2213e28.png",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "FSP_03_Frozen_Vegetable_Spring_Roll_450grs_09c2213e28",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-08-22T20:06:28.632Z",
+                            "updatedAt": "2023-08-22T20:06:28.632Z"
+                        }
+                    }
+                },
+                "category": {
+                    "data": {
+                        "id": 4,
+                        "attributes": {
+                            "name": "003-FSP",
+                            "value": "Frozen Special Foods",
+                            "createdAt": "2023-07-15T12:28:22.321Z",
+                            "updatedAt": "2023-10-20T03:15:40.082Z",
+                            "publishedAt": "2023-07-15T12:28:25.097Z",
+                            "description": "Experience convenience and delight with frozen specialties. Enjoy the authentic taste of hargow, mixed dim sum, vegetable spring rolls, and shrimp and crab spring rolls, all ready to be savored in the comfort of your home."
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 4,
+            "attributes": {
+                "code": "FVE04",
+                "name": "Frozen Yam (grated)",
+                "description": null,
+                "barcode": "8936040360175",
+                "display_hint": "{ \"width\": \"40vw\", \"height\": \"90vh\" }",
+                "createdAt": "2023-07-18T14:41:01.967Z",
+                "updatedAt": "2023-07-23T23:05:16.975Z",
+                "publishedAt": "2023-07-23T23:05:16.913Z",
+                "dimensions": "500grs/bag x 20bags/CTN",
+                "image": {
+                    "data": {
+                        "id": 35,
+                        "attributes": {
+                            "name": "FVE04_Frozen Yam Grated_500grs.png",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 489,
+                            "height": 630,
+                            "formats": {
+                                "small": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1689753005/small_FVE_04_Frozen_Yam_Grated_500grs_49e410db57.png",
+                                    "hash": "small_FVE_04_Frozen_Yam_Grated_500grs_49e410db57",
+                                    "mime": "image/png",
+                                    "name": "small_FVE04_Frozen Yam Grated_500grs.png",
+                                    "path": null,
+                                    "size": 448.99,
+                                    "width": 388,
+                                    "height": 500,
+                                    "provider_metadata": {
+                                        "public_id": "small_FVE_04_Frozen_Yam_Grated_500grs_49e410db57",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1689753000/thumbnail_FVE_04_Frozen_Yam_Grated_500grs_49e410db57.png",
+                                    "hash": "thumbnail_FVE_04_Frozen_Yam_Grated_500grs_49e410db57",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_FVE04_Frozen Yam Grated_500grs.png",
+                                    "path": null,
+                                    "size": 48.67,
+                                    "width": 121,
+                                    "height": 156,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_FVE_04_Frozen_Yam_Grated_500grs_49e410db57",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "FVE_04_Frozen_Yam_Grated_500grs_49e410db57",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 193.09,
+                            "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1689753002/FVE_04_Frozen_Yam_Grated_500grs_49e410db57.png",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "FVE_04_Frozen_Yam_Grated_500grs_49e410db57",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-07-19T00:50:05.447Z",
+                            "updatedAt": "2023-07-19T00:50:05.447Z"
+                        }
+                    }
+                },
+                "category": {
+                    "data": {
+                        "id": 2,
+                        "attributes": {
+                            "name": "001-FVE",
+                            "value": "Frozen Vegetables",
+                            "createdAt": "2023-07-15T12:27:30.327Z",
+                            "updatedAt": "2023-10-20T03:14:29.483Z",
+                            "publishedAt": "2023-07-15T12:27:33.485Z",
+                            "description": "Embrace convenience without sacrificing taste with an array of frozen vegetables. Discover the rich textures of cassava, yam, and taro. Add aromatic depth with frozen lemon grass and ginger. Elevate your dishes with the natural goodness of frozen coconut, each element ready to enhance your culinary ventures."
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 19,
+            "attributes": {
+                "code": "FDS01",
+                "name": "Dried tiny Shrimp 1kg",
+                "description": null,
+                "barcode": "8938508546305",
+                "display_hint": null,
+                "createdAt": "2023-08-23T03:36:12.887Z",
+                "updatedAt": "2023-08-23T03:36:17.048Z",
+                "publishedAt": "2023-08-23T03:36:16.945Z",
+                "dimensions": "1kg/bag x 10bags/CTN",
+                "image": {
+                    "data": {
+                        "id": 166,
+                        "attributes": {
+                            "name": "FDS01_Dried Anchovy (Headless)_500grs.png",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 669,
+                            "height": 670,
+                            "formats": {
+                                "small": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692760051/small_FDS_01_Dried_Anchovy_Headless_500grs_c648686fa8.png",
+                                    "hash": "small_FDS_01_Dried_Anchovy_Headless_500grs_c648686fa8",
+                                    "mime": "image/png",
+                                    "name": "small_FDS01_Dried Anchovy (Headless)_500grs.png",
+                                    "path": null,
+                                    "size": 413.26,
+                                    "width": 499,
+                                    "height": 500,
+                                    "provider_metadata": {
+                                        "public_id": "small_FDS_01_Dried_Anchovy_Headless_500grs_c648686fa8",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692760046/thumbnail_FDS_01_Dried_Anchovy_Headless_500grs_c648686fa8.png",
+                                    "hash": "thumbnail_FDS_01_Dried_Anchovy_Headless_500grs_c648686fa8",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_FDS01_Dried Anchovy (Headless)_500grs.png",
+                                    "path": null,
+                                    "size": 43.71,
+                                    "width": 156,
+                                    "height": 156,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_FDS_01_Dried_Anchovy_Headless_500grs_c648686fa8",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "FDS_01_Dried_Anchovy_Headless_500grs_c648686fa8",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 195.53,
+                            "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692760047/FDS_01_Dried_Anchovy_Headless_500grs_c648686fa8.png",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "FDS_01_Dried_Anchovy_Headless_500grs_c648686fa8",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-08-22T20:07:32.245Z",
+                            "updatedAt": "2023-08-22T20:07:32.245Z"
+                        }
+                    }
+                },
+                "category": {
+                    "data": {
+                        "id": 5,
+                        "attributes": {
+                            "name": "004-FDS",
+                            "value": "Frozen Dried Seafoods",
+                            "createdAt": "2023-07-15T12:29:07.213Z",
+                            "updatedAt": "2023-10-20T03:16:07.753Z",
+                            "publishedAt": "2023-07-15T12:29:10.220Z",
+                            "description": "Embark on a savory adventure with dried seafood. Discover the rich flavors of dried anchovy and dried tiny shrimp, perfect for adding depth to your recipes and snacks."
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 20,
+            "attributes": {
+                "code": "FDS02",
+                "name": "Dried tiny Shrimp 1kg",
+                "description": null,
+                "barcode": "8938508546305",
+                "display_hint": null,
+                "createdAt": "2023-08-23T03:37:07.399Z",
+                "updatedAt": "2023-08-23T03:37:15.830Z",
+                "publishedAt": "2023-08-23T03:37:15.754Z",
+                "dimensions": "1kg/bag x 10bags/CTN",
+                "image": {
+                    "data": {
+                        "id": 170,
+                        "attributes": {
+                            "name": "FDS02_Dried tiny Shrimp_1kg.png",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 669,
+                            "height": 670,
+                            "formats": {
+                                "small": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692760052/small_FDS_02_Dried_tiny_Shrimp_1kg_06cec58a2d.png",
+                                    "hash": "small_FDS_02_Dried_tiny_Shrimp_1kg_06cec58a2d",
+                                    "mime": "image/png",
+                                    "name": "small_FDS02_Dried tiny Shrimp_1kg.png",
+                                    "path": null,
+                                    "size": 443.23,
+                                    "width": 499,
+                                    "height": 500,
+                                    "provider_metadata": {
+                                        "public_id": "small_FDS_02_Dried_tiny_Shrimp_1kg_06cec58a2d",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692760049/thumbnail_FDS_02_Dried_tiny_Shrimp_1kg_06cec58a2d.png",
+                                    "hash": "thumbnail_FDS_02_Dried_tiny_Shrimp_1kg_06cec58a2d",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_FDS02_Dried tiny Shrimp_1kg.png",
+                                    "path": null,
+                                    "size": 50.72,
+                                    "width": 156,
+                                    "height": 156,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_FDS_02_Dried_tiny_Shrimp_1kg_06cec58a2d",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "FDS_02_Dried_tiny_Shrimp_1kg_06cec58a2d",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 186.76,
+                            "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692760048/FDS_02_Dried_tiny_Shrimp_1kg_06cec58a2d.png",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "FDS_02_Dried_tiny_Shrimp_1kg_06cec58a2d",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-08-22T20:07:33.020Z",
+                            "updatedAt": "2023-08-22T20:07:33.020Z"
+                        }
+                    }
+                },
+                "category": {
+                    "data": {
+                        "id": 5,
+                        "attributes": {
+                            "name": "004-FDS",
+                            "value": "Frozen Dried Seafoods",
+                            "createdAt": "2023-07-15T12:29:07.213Z",
+                            "updatedAt": "2023-10-20T03:16:07.753Z",
+                            "publishedAt": "2023-07-15T12:29:10.220Z",
+                            "description": "Embark on a savory adventure with dried seafood. Discover the rich flavors of dried anchovy and dried tiny shrimp, perfect for adding depth to your recipes and snacks."
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 28,
+            "attributes": {
+                "code": "DDR02",
+                "name": "Instant Coffee G7 3 in 1 (20bags)",
+                "description": null,
+                "barcode": "8935024173084",
+                "display_hint": null,
+                "createdAt": "2023-08-30T12:04:08.488Z",
+                "updatedAt": "2023-08-30T12:04:11.819Z",
+                "publishedAt": "2023-08-30T12:04:11.692Z",
+                "dimensions": "16grs/bag x 20bags/pack x 24packs/CTN",
+                "image": {
+                    "data": {
+                        "id": 213,
+                        "attributes": {
+                            "name": "DDR02_Instant Coffee G7 3 in 1 (20bags).png",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 669,
+                            "height": 669,
+                            "formats": {
+                                "small": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692760337/small_DDR_02_Instant_Coffee_G7_3_in_1_20bags_57ba4912dd.png",
+                                    "hash": "small_DDR_02_Instant_Coffee_G7_3_in_1_20bags_57ba4912dd",
+                                    "mime": "image/png",
+                                    "name": "small_DDR02_Instant Coffee G7 3 in 1 (20bags).png",
+                                    "path": null,
+                                    "size": 424.66,
+                                    "width": 500,
+                                    "height": 500,
+                                    "provider_metadata": {
+                                        "public_id": "small_DDR_02_Instant_Coffee_G7_3_in_1_20bags_57ba4912dd",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692760335/thumbnail_DDR_02_Instant_Coffee_G7_3_in_1_20bags_57ba4912dd.png",
+                                    "hash": "thumbnail_DDR_02_Instant_Coffee_G7_3_in_1_20bags_57ba4912dd",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_DDR02_Instant Coffee G7 3 in 1 (20bags).png",
+                                    "path": null,
+                                    "size": 51.09,
+                                    "width": 156,
+                                    "height": 156,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_DDR_02_Instant_Coffee_G7_3_in_1_20bags_57ba4912dd",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "DDR_02_Instant_Coffee_G7_3_in_1_20bags_57ba4912dd",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 169.18,
+                            "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692760330/DDR_02_Instant_Coffee_G7_3_in_1_20bags_57ba4912dd.png",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "DDR_02_Instant_Coffee_G7_3_in_1_20bags_57ba4912dd",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-08-22T20:12:17.821Z",
+                            "updatedAt": "2023-08-22T20:12:17.821Z"
+                        }
+                    }
+                },
+                "category": {
+                    "data": {
+                        "id": 8,
+                        "attributes": {
+                            "name": "007-DDR",
+                            "value": "Drinks",
+                            "createdAt": "2023-07-15T12:30:02.181Z",
+                            "updatedAt": "2023-10-20T03:12:38.524Z",
+                            "publishedAt": "2023-07-15T12:30:04.812Z",
+                            "description": "Quench your thirst with a variety of flavorful drinks. Instant coffee 3 in 1 offers a quick and indulgent coffee experience. Explore the tangy notes of tamarind, salted kumquat, and preserved apricot. Enjoy the soothing qualities of green tea and the sweetness of passion honey, creating a diverse range of beverage options."
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 21,
+            "attributes": {
+                "code": "FDS03",
+                "name": "Dried Tiny Shrimp 500g",
+                "description": null,
+                "barcode": "8938508546589",
+                "display_hint": null,
+                "createdAt": "2023-08-23T03:38:08.904Z",
+                "updatedAt": "2023-08-23T03:38:11.952Z",
+                "publishedAt": "2023-08-23T03:38:11.879Z",
+                "dimensions": "500grs/bag x 20bags/CTN",
+                "image": {
+                    "data": {
+                        "id": 167,
+                        "attributes": {
+                            "name": "FDS03_Dried Tiny Shrimp_500g.png",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 669,
+                            "height": 670,
+                            "formats": {
+                                "small": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692760052/small_FDS_03_Dried_Tiny_Shrimp_500g_1b00db612b.png",
+                                    "hash": "small_FDS_03_Dried_Tiny_Shrimp_500g_1b00db612b",
+                                    "mime": "image/png",
+                                    "name": "small_FDS03_Dried Tiny Shrimp_500g.png",
+                                    "path": null,
+                                    "size": 382.33,
+                                    "width": 499,
+                                    "height": 500,
+                                    "provider_metadata": {
+                                        "public_id": "small_FDS_03_Dried_Tiny_Shrimp_500g_1b00db612b",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692760048/thumbnail_FDS_03_Dried_Tiny_Shrimp_500g_1b00db612b.png",
+                                    "hash": "thumbnail_FDS_03_Dried_Tiny_Shrimp_500g_1b00db612b",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_FDS03_Dried Tiny Shrimp_500g.png",
+                                    "path": null,
+                                    "size": 40.05,
+                                    "width": 156,
+                                    "height": 156,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_FDS_03_Dried_Tiny_Shrimp_500g_1b00db612b",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "FDS_03_Dried_Tiny_Shrimp_500g_1b00db612b",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 180.31,
+                            "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692760050/FDS_03_Dried_Tiny_Shrimp_500g_1b00db612b.png",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "FDS_03_Dried_Tiny_Shrimp_500g_1b00db612b",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-08-22T20:07:32.408Z",
+                            "updatedAt": "2023-08-22T20:07:32.408Z"
+                        }
+                    }
+                },
+                "category": {
+                    "data": {
+                        "id": 5,
+                        "attributes": {
+                            "name": "004-FDS",
+                            "value": "Frozen Dried Seafoods",
+                            "createdAt": "2023-07-15T12:29:07.213Z",
+                            "updatedAt": "2023-10-20T03:16:07.753Z",
+                            "publishedAt": "2023-07-15T12:29:10.220Z",
+                            "description": "Embark on a savory adventure with dried seafood. Discover the rich flavors of dried anchovy and dried tiny shrimp, perfect for adding depth to your recipes and snacks."
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 23,
+            "attributes": {
+                "code": "FDV02",
+                "name": "Dried Red Onion",
+                "description": null,
+                "barcode": "8934966037188",
+                "display_hint": null,
+                "createdAt": "2023-08-23T03:40:15.461Z",
+                "updatedAt": "2023-08-23T03:40:19.134Z",
+                "publishedAt": "2023-08-23T03:40:19.061Z",
+                "dimensions": "500g/bag x 10bags/CTN",
+                "image": {
+                    "data": {
+                        "id": 171,
+                        "attributes": {
+                            "name": "FDV02_Fried Red Onion_500grs.png",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 478,
+                            "height": 669,
+                            "formats": {
+                                "small": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692760090/small_FDV_02_Fried_Red_Onion_500grs_1018015a03.png",
+                                    "hash": "small_FDV_02_Fried_Red_Onion_500grs_1018015a03",
+                                    "mime": "image/png",
+                                    "name": "small_FDV02_Fried Red Onion_500grs.png",
+                                    "path": null,
+                                    "size": 417.53,
+                                    "width": 357,
+                                    "height": 500,
+                                    "provider_metadata": {
+                                        "public_id": "small_FDV_02_Fried_Red_Onion_500grs_1018015a03",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692760088/thumbnail_FDV_02_Fried_Red_Onion_500grs_1018015a03.png",
+                                    "hash": "thumbnail_FDV_02_Fried_Red_Onion_500grs_1018015a03",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_FDV02_Fried Red Onion_500grs.png",
+                                    "path": null,
+                                    "size": 44.65,
+                                    "width": 111,
+                                    "height": 156,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_FDV_02_Fried_Red_Onion_500grs_1018015a03",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "FDV_02_Fried_Red_Onion_500grs_1018015a03",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 197.69,
+                            "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692760089/FDV_02_Fried_Red_Onion_500grs_1018015a03.png",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "FDV_02_Fried_Red_Onion_500grs_1018015a03",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-08-22T20:08:10.554Z",
+                            "updatedAt": "2023-08-22T20:08:10.554Z"
+                        }
+                    }
+                },
+                "category": {
+                    "data": {
+                        "id": 6,
+                        "attributes": {
+                            "name": "005-FDV",
+                            "value": "Frozen Dried Vegetables",
+                            "createdAt": "2023-07-15T12:29:32.623Z",
+                            "updatedAt": "2023-10-20T03:16:30.929Z",
+                            "publishedAt": "2023-07-15T12:29:35.508Z",
+                            "description": "Embark on a flavor journey with dried vegetables. Explore the boldness of Dried Chilli and the sweet intensity of dried red onion, perfect for imparting distinct profiles to your dishes."
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 22,
+            "attributes": {
+                "code": "FDV01",
+                "name": "Dried Chilli",
+                "description": null,
+                "barcode": "8936040360038",
+                "display_hint": null,
+                "createdAt": "2023-08-23T03:39:10.691Z",
+                "updatedAt": "2023-08-23T03:40:52.201Z",
+                "publishedAt": "2023-08-23T03:39:15.367Z",
+                "dimensions": "1kg/bag x 10bags/CTN",
+                "image": {
+                    "data": {
+                        "id": 172,
+                        "attributes": {
+                            "name": "FDV01_Dried Chilli_1kg.png",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 932,
+                            "height": 630,
+                            "formats": {
+                                "small": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692760092/small_FDV_01_Dried_Chilli_1kg_3683490758.png",
+                                    "hash": "small_FDV_01_Dried_Chilli_1kg_3683490758",
+                                    "mime": "image/png",
+                                    "name": "small_FDV01_Dried Chilli_1kg.png",
+                                    "path": null,
+                                    "size": 403.01,
+                                    "width": 500,
+                                    "height": 338,
+                                    "provider_metadata": {
+                                        "public_id": "small_FDV_01_Dried_Chilli_1kg_3683490758",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "medium": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692760094/medium_FDV_01_Dried_Chilli_1kg_3683490758.png",
+                                    "hash": "medium_FDV_01_Dried_Chilli_1kg_3683490758",
+                                    "mime": "image/png",
+                                    "name": "medium_FDV01_Dried Chilli_1kg.png",
+                                    "path": null,
+                                    "size": 870.41,
+                                    "width": 750,
+                                    "height": 507,
+                                    "provider_metadata": {
+                                        "public_id": "medium_FDV_01_Dried_Chilli_1kg_3683490758",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692760090/thumbnail_FDV_01_Dried_Chilli_1kg_3683490758.png",
+                                    "hash": "thumbnail_FDV_01_Dried_Chilli_1kg_3683490758",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_FDV01_Dried Chilli_1kg.png",
+                                    "path": null,
+                                    "size": 92.81,
+                                    "width": 231,
+                                    "height": 156,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_FDV_01_Dried_Chilli_1kg_3683490758",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "FDV_01_Dried_Chilli_1kg_3683490758",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 283.32,
+                            "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692760091/FDV_01_Dried_Chilli_1kg_3683490758.png",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "FDV_01_Dried_Chilli_1kg_3683490758",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-08-22T20:08:14.761Z",
+                            "updatedAt": "2023-08-22T20:08:14.761Z"
+                        }
+                    }
+                },
+                "category": {
+                    "data": {
+                        "id": 6,
+                        "attributes": {
+                            "name": "005-FDV",
+                            "value": "Frozen Dried Vegetables",
+                            "createdAt": "2023-07-15T12:29:32.623Z",
+                            "updatedAt": "2023-10-20T03:16:30.929Z",
+                            "publishedAt": "2023-07-15T12:29:35.508Z",
+                            "description": "Embark on a flavor journey with dried vegetables. Explore the boldness of Dried Chilli and the sweet intensity of dried red onion, perfect for imparting distinct profiles to your dishes."
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 16,
+            "attributes": {
+                "code": "FSP01",
+                "name": "Frozen Dimsum",
+                "description": null,
+                "barcode": "8936036431285",
+                "display_hint": null,
+                "createdAt": "2023-08-23T03:29:37.403Z",
+                "updatedAt": "2023-08-23T21:49:16.253Z",
+                "publishedAt": "2023-08-23T03:33:04.780Z",
+                "dimensions": "400grs/bag x 20bags/CTN",
+                "image": {
+                    "data": {
+                        "id": 157,
+                        "attributes": {
+                            "name": "FSP01_Frozen Mixed Dimsum_400grs.png",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 240,
+                            "height": 320,
+                            "formats": {
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692759987/thumbnail_FSP_01_Frozen_Mixed_Dimsum_400grs_ad941109db.png",
+                                    "hash": "thumbnail_FSP_01_Frozen_Mixed_Dimsum_400grs_ad941109db",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_FSP01_Frozen Mixed Dimsum_400grs.png",
+                                    "path": null,
+                                    "size": 49,
+                                    "width": 117,
+                                    "height": 156,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_FSP_01_Frozen_Mixed_Dimsum_400grs_ad941109db",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "FSP_01_Frozen_Mixed_Dimsum_400grs_ad941109db",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 45.28,
+                            "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692759988/FSP_01_Frozen_Mixed_Dimsum_400grs_ad941109db.png",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "FSP_01_Frozen_Mixed_Dimsum_400grs_ad941109db",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-08-22T20:06:28.695Z",
+                            "updatedAt": "2023-08-23T03:28:57.349Z"
+                        }
+                    }
+                },
+                "category": {
+                    "data": {
+                        "id": 4,
+                        "attributes": {
+                            "name": "003-FSP",
+                            "value": "Frozen Special Foods",
+                            "createdAt": "2023-07-15T12:28:22.321Z",
+                            "updatedAt": "2023-10-20T03:15:40.082Z",
+                            "publishedAt": "2023-07-15T12:28:25.097Z",
+                            "description": "Experience convenience and delight with frozen specialties. Enjoy the authentic taste of hargow, mixed dim sum, vegetable spring rolls, and shrimp and crab spring rolls, all ready to be savored in the comfort of your home."
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 24,
+            "attributes": {
+                "code": "DDF01",
+                "name": "Round rice paper size 22cm (GST)",
+                "description": null,
+                "barcode": "8936012360097",
+                "display_hint": null,
+                "createdAt": "2023-08-30T11:54:17.386Z",
+                "updatedAt": "2023-08-30T11:54:23.848Z",
+                "publishedAt": "2023-08-30T11:54:23.644Z",
+                "dimensions": "1kg/box x 10boxes/CTN",
+                "image": {
+                    "data": {
+                        "id": 176,
+                        "attributes": {
+                            "name": "DDF01_Round rice paper size 22 cm_1kg.png",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 677,
+                            "height": 669,
+                            "formats": {
+                                "small": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692760140/small_DDF_01_Round_rice_paper_size_22_cm_1kg_8f4bb0e7c0.png",
+                                    "hash": "small_DDF_01_Round_rice_paper_size_22_cm_1kg_8f4bb0e7c0",
+                                    "mime": "image/png",
+                                    "name": "small_DDF01_Round rice paper size 22 cm_1kg.png",
+                                    "path": null,
+                                    "size": 466.9,
+                                    "width": 500,
+                                    "height": 494,
+                                    "provider_metadata": {
+                                        "public_id": "small_DDF_01_Round_rice_paper_size_22_cm_1kg_8f4bb0e7c0",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692760135/thumbnail_DDF_01_Round_rice_paper_size_22_cm_1kg_8f4bb0e7c0.png",
+                                    "hash": "thumbnail_DDF_01_Round_rice_paper_size_22_cm_1kg_8f4bb0e7c0",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_DDF01_Round rice paper size 22 cm_1kg.png",
+                                    "path": null,
+                                    "size": 51.33,
+                                    "width": 158,
+                                    "height": 156,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_DDF_01_Round_rice_paper_size_22_cm_1kg_8f4bb0e7c0",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "DDF_01_Round_rice_paper_size_22_cm_1kg_8f4bb0e7c0",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 272.22,
+                            "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692760139/DDF_01_Round_rice_paper_size_22_cm_1kg_8f4bb0e7c0.png",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "DDF_01_Round_rice_paper_size_22_cm_1kg_8f4bb0e7c0",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-08-22T20:09:01.018Z",
+                            "updatedAt": "2023-08-22T20:09:01.018Z"
+                        }
+                    }
+                },
+                "category": {
+                    "data": {
+                        "id": 7,
+                        "attributes": {
+                            "name": "006-DDF",
+                            "value": "Dry Foods",
+                            "createdAt": "2023-07-15T12:29:46.688Z",
+                            "updatedAt": "2023-10-20T03:12:52.597Z",
+                            "publishedAt": "2023-07-15T12:29:49.384Z",
+                            "description": "Elevate your culinary creations with a selection of essential dry foods. Delight in the versatility of rice paper and rice vermicelli. Explore unique flavors through preserved vegetables, pickled leek, and dried black fungus, adding depth to your dishes."
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 29,
+            "attributes": {
+                "code": "DDR03",
+                "name": "Instant Coffee G7 2 in 1 (15bags)",
+                "description": null,
+                "barcode": "8935024122396",
+                "display_hint": null,
+                "createdAt": "2023-08-30T12:05:39.953Z",
+                "updatedAt": "2023-08-30T12:05:43.138Z",
+                "publishedAt": "2023-08-30T12:05:43.067Z",
+                "dimensions": "16grs/bag x 15bags/box x 24boxes/CTN",
+                "image": {
+                    "data": {
+                        "id": 226,
+                        "attributes": {
+                            "name": "DDR03_Instant Coffee G7 2 in 1 (15bags).png",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 800,
+                            "height": 426,
+                            "formats": {
+                                "small": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692760384/small_DDR_03_Instant_Coffee_G7_2_in_1_15bags_fc23a98b58.png",
+                                    "hash": "small_DDR_03_Instant_Coffee_G7_2_in_1_15bags_fc23a98b58",
+                                    "mime": "image/png",
+                                    "name": "small_DDR03_Instant Coffee G7 2 in 1 (15bags).png",
+                                    "path": null,
+                                    "size": 239.65,
+                                    "width": 500,
+                                    "height": 266,
+                                    "provider_metadata": {
+                                        "public_id": "small_DDR_03_Instant_Coffee_G7_2_in_1_15bags_fc23a98b58",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "medium": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692760383/medium_DDR_03_Instant_Coffee_G7_2_in_1_15bags_fc23a98b58.png",
+                                    "hash": "medium_DDR_03_Instant_Coffee_G7_2_in_1_15bags_fc23a98b58",
+                                    "mime": "image/png",
+                                    "name": "medium_DDR03_Instant Coffee G7 2 in 1 (15bags).png",
+                                    "path": null,
+                                    "size": 494.7,
+                                    "width": 750,
+                                    "height": 399,
+                                    "provider_metadata": {
+                                        "public_id": "medium_DDR_03_Instant_Coffee_G7_2_in_1_15bags_fc23a98b58",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "thumbnail": {
+                                    "ext": ".png",
+                                    "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692760382/thumbnail_DDR_03_Instant_Coffee_G7_2_in_1_15bags_fc23a98b58.png",
+                                    "hash": "thumbnail_DDR_03_Instant_Coffee_G7_2_in_1_15bags_fc23a98b58",
+                                    "mime": "image/png",
+                                    "name": "thumbnail_DDR03_Instant Coffee G7 2 in 1 (15bags).png",
+                                    "path": null,
+                                    "size": 67.21,
+                                    "width": 245,
+                                    "height": 130,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_DDR_03_Instant_Coffee_G7_2_in_1_15bags_fc23a98b58",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "DDR_03_Instant_Coffee_G7_2_in_1_15bags_fc23a98b58",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 134.93,
+                            "url": "https://res.cloudinary.com/dwewg2ssb/image/upload/v1692760382/DDR_03_Instant_Coffee_G7_2_in_1_15bags_fc23a98b58.png",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "DDR_03_Instant_Coffee_G7_2_in_1_15bags_fc23a98b58",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-08-22T20:13:04.614Z",
+                            "updatedAt": "2023-08-22T20:13:04.614Z"
+                        }
+                    }
+                },
+                "category": {
+                    "data": {
+                        "id": 8,
+                        "attributes": {
+                            "name": "007-DDR",
+                            "value": "Drinks",
+                            "createdAt": "2023-07-15T12:30:02.181Z",
+                            "updatedAt": "2023-10-20T03:12:38.524Z",
+                            "publishedAt": "2023-07-15T12:30:04.812Z",
+                            "description": "Quench your thirst with a variety of flavorful drinks. Instant coffee 3 in 1 offers a quick and indulgent coffee experience. Explore the tangy notes of tamarind, salted kumquat, and preserved apricot. Enjoy the soothing qualities of green tea and the sweetness of passion honey, creating a diverse range of beverage options."
+                        }
+                    }
+                }
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 2,
+            "total": 34
+        }
+    }
+}

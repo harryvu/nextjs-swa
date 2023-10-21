@@ -11,13 +11,31 @@ async function getProducts() {
   const url = 'https://lfs-api.onrender.com/api/products?populate=*';
   const res = await fetch(url, { cache: 'no-store' });
   //const res = await fetch(url, { next: { revalidate: 60 } });
-  const data = await res.json();
-  return data;
+  const products = await res.json();
+  //console.log(data)
+  // sort by category and code
+  const sortedData = products.data.sort((a: any, b: any) => {
+    if (a.attributes.category.data.attributes.name < b.attributes.category.data.attributes.name) {
+      return -1
+    }
+    if (a.attributes.category.data.attributes.name > b.attributes.category.data.attributes.name) {
+      return 1
+    }
+    if (a.attributes.code < b.attributes.code) {
+      return -1
+    }
+    if (a.attributes.code > b.attributes.code) {
+      return 1
+    }
+    return 0
+  })
+
+  return products.data;
 }
 
 export async function getServerSideProps() {
   const products = await getProducts();
-  return { props: { products: products.data } };
+  return { props: { products: products } };
 }
 
 

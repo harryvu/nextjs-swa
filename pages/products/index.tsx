@@ -61,7 +61,17 @@ const ProducsPage = ({ products }: { products: any }) => {
         </li>
         <li className='italic text-blue-600 hidden md:block sm:row-start-2 sm:col-start-2 sm:self-center md:col-start-2 md:col-span-2 border-2 rounded-xl border-red-500 border-dotted p-4'>
           <p className='text-xl'>
-          L & FS Global Trading is your premier gateway to authentic Vietnamese products and ingredients. Despite being a budding presence in the Australian landscape, our commitment runs deep: we meticulously source the finest ingredients straight from Vietnam, ensuring unparalleled quality. From gourmet restaurants to your own kitchen creations, L & FS Global Trading guarantees a touch of Vietnamese authenticity that will elevate and satisfy your culinary needs.
+          Welcome to L & FS Global Trading, the premier destination for exquisite traditional Vietnamese products and ingredients.
+          With a decade of experience as a trusted importer, we take pride in supplying our loyal and new customers 
+          with the most pristine products that bring the authentic taste of Vietnam right to your place of business. 
+          Our commitment to excellence ensures that our customers receive the highest quality products and the best service possible.
+          <br /><br />
+          You can find our amazing range of products gracing the shelves of Asian Supermarkets all across Australia, 
+          a testament to our dedication and reputation in the industry.
+          <br /><br />
+          Whether you are a new customer or returning enthusiast, we are always delighted to assist you with our extensive product selection. 
+          Reach out to us today and let us help you, while you help us continue to provide these exceptional Vietnamese delicacies. 
+
           </p>
         </li>
           {products.map((product:any) => {

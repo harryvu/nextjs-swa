@@ -12,23 +12,37 @@ async function getProducts() {
   const res = await fetch(url, { cache: 'no-store' });
   //const res = await fetch(url, { next: { revalidate: 60 } });
   const products = await res.json();
-  //console.log(data)
+  console.log(products.data)
+  
   // sort by category and code
   const sortedData = products.data.sort((a: any, b: any) => {
-    if (a.attributes.category.data.attributes.name < b.attributes.category.data.attributes.name) {
-      return -1
+    const categoryNameA = a.attributes.category?.data?.attributes?.name || '';
+    const categoryNameB = b.attributes.category?.data?.attributes?.name || '';
+  
+    if (categoryNameA === '' && categoryNameB === '') {
+      // Both items have null category.data, consider them equal
+      return 0;
+    } else if (categoryNameA === '') {
+      // Item A has null category.data, place it after item B
+      return 1;
+    } else if (categoryNameB === '') {
+      // Item B has null category.data, place it after item A
+      return -1;
+    } else {
+      // Compare category names for items with non-null category.data
+      if (categoryNameA < categoryNameB) {
+        return -1;
+      } else if (categoryNameA > categoryNameB) {
+        return 1;
+      }
     }
-    if (a.attributes.category.data.attributes.name > b.attributes.category.data.attributes.name) {
-      return 1
-    }
-    if (a.attributes.code < b.attributes.code) {
-      return -1
-    }
-    if (a.attributes.code > b.attributes.code) {
-      return 1
-    }
-    return 0
-  })
+  
+    // If category names are equal, compare by code
+    const codeA = a.attributes.code || '';
+    const codeB = b.attributes.code || '';
+  
+    return codeA.localeCompare(codeB);
+  });
 
   return products.data;
 }
